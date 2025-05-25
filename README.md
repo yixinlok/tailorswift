@@ -1,6 +1,6 @@
 # TailorSwift
 Yixin Lok, Lavanya Mehndiratta, Brian Chu, Tamim Hasan
-![Figure](./figs/Fashion_teaser.png)
+![Figure](./figs/teaser.png)
 ## Introduction
 
 @article{xu2022fashionformer,
