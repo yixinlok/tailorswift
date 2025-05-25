@@ -1,6 +1,14 @@
-# tailorswift
-generating sewing patterns from garment specification sheets
+# TailorSwift
+Yixin Lok, Lavanya Mehndiratta, Brian Chu, Tamim Hasan
+![Figure](./figs/Fashion_teaser.png)
+## Introduction
 
+@article{xu2022fashionformer,
+  title={Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition},
+  author={Xu, Shilin and Li, Xiangtai and Wang, Jingbo and Cheng, Guangliang and Tong, Yunhai and Tao, Dacheng},
+  journal={ECCV},
+  year={2022}
+}
 
 @inproceedings{GarmentCodeData:2024,
   author = {Korosteleva, Maria and Kesdogan, Timur Levent and Kemper, Fabian and Wenninger, Stephan and Koller, Jasmin and Zhang, Yuhan and Botsch, Mario and Sorkine-Hornung, Olga},
