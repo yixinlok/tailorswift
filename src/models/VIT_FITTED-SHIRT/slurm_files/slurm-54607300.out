@@ -1,0 +1,36 @@
+
+Inactive Modules:
+  1) hwloc/2.9.1     2) pmix/4.2.4     3) ucc/1.2.0
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) mii/1.1.2
+
+The following have been reloaded with a version change:
+  1) flexiblas/3.3.1 => flexiblas/3.0.4
+  2) gcc/12.3 => gcc/9.3.0
+  3) gcccore/.12.3 => gcccore/.9.3.0
+  4) gentoo/2023 => gentoo/2020
+  5) imkl/2023.2.0 => imkl/2020.1.217
+  6) libfabric/1.18.0 => libfabric/1.10.1
+  7) openmpi/4.1.5 => openmpi/4.0.3
+  8) ucx/1.14.1 => ucx/1.8.0
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) openmpi/4.0.3
+
+The following have been reloaded with a version change:
+  1) StdEnv/2023 => StdEnv/2020
+
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) openmpi/4.0.3
+
+/lustre03/project/6093715/yixinlok/virtualenv/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Training:   0%|          | 0/150 [00:00<?, ?it/s]Training:   0%|          | 0/150 [00:00<?, ?it/s, current_epoch=1]Training:   1%|          | 1/150 [03:31<8:44:23, 211.16s/it, current_epoch=1]Training:   1%|          | 1/150 [03:31<8:44:23, 211.16s/it, current_epoch=2]Training:   1%|▏         | 2/150 [06:38<8:06:27, 197.21s/it, current_epoch=2]Training:   1%|▏         | 2/150 [06:38<8:06:27, 197.21s/it, current_epoch=3]Training:   2%|▏         | 3/150 [09:46<7:52:14, 192.75s/it, current_epoch=3]Training:   2%|▏         | 3/150 [09:46<7:52:14, 192.75s/it, current_epoch=4]Training:   3%|▎         | 4/150 [12:53<7:44:01, 190.69s/it, current_epoch=4]Training:   3%|▎         | 4/150 [12:53<7:44:01, 190.69s/it, current_epoch=5]Training:   3%|▎         | 5/150 [16:01<7:38:01, 189.53s/it, current_epoch=5]Training:   3%|▎         | 5/150 [16:01<7:38:01, 189.53s/it, current_epoch=6]Training:   4%|▍         | 6/150 [19:08<7:32:57, 188.73s/it, current_epoch=6]Training:   4%|▍         | 6/150 [19:08<7:32:57, 188.73s/it, current_epoch=7]Training:   5%|▍         | 7/150 [22:17<7:30:34, 189.05s/it, current_epoch=7]Training:   5%|▍         | 7/150 [22:17<7:30:34, 189.05s/it, current_epoch=8]Training:   5%|▌         | 8/150 [25:25<7:26:21, 188.60s/it, current_epoch=8]Training:   5%|▌         | 8/150 [25:25<7:26:21, 188.60s/it, current_epoch=9]Training:   6%|▌         | 9/150 [28:32<7:22:15, 188.19s/it, current_epoch=9]Training:   6%|▌         | 9/150 [28:32<7:22:15, 188.19s/it, current_epoch=10]slurmstepd: error: *** JOB 54607300 ON bg11503 CANCELLED AT 2025-03-18T06:09:49 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 54607300 STEPD TERMINATED ON bg11503 AT 2025-03-18T06:19:49 DUE TO JOB NOT ENDING WITH SIGNALS ***
+slurmstepd: error: Container 2235125 in cgroup plugin has 1 processes, giving up after 607 sec

@@ -1,0 +1,34 @@
+
+Inactive Modules:
+  1) hwloc/2.9.1     2) pmix/4.2.4     3) ucc/1.2.0
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) mii/1.1.2
+
+The following have been reloaded with a version change:
+  1) flexiblas/3.3.1 => flexiblas/3.0.4
+  2) gcc/12.3 => gcc/9.3.0
+  3) gcccore/.12.3 => gcccore/.9.3.0
+  4) gentoo/2023 => gentoo/2020
+  5) imkl/2023.2.0 => imkl/2020.1.217
+  6) libfabric/1.18.0 => libfabric/1.10.1
+  7) openmpi/4.1.5 => openmpi/4.0.3
+  8) ucx/1.14.1 => ucx/1.8.0
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) openmpi/4.0.3
+
+The following have been reloaded with a version change:
+  1) StdEnv/2023 => StdEnv/2020
+
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) openmpi/4.0.3
+
+/lustre03/project/6093715/yixinlok/virtualenv/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Training:   0%|          | 0/150 [00:00<?, ?it/s]Training:   0%|          | 0/150 [00:00<?, ?it/s, current_epoch=1]Training:   1%|          | 1/150 [03:05<7:40:11, 185.31s/it, current_epoch=1]Training:   1%|          | 1/150 [03:05<7:40:11, 185.31s/it, current_epoch=2]Training:   1%|▏         | 2/150 [06:10<7:36:43, 185.16s/it, current_epoch=2]Training:   1%|▏         | 2/150 [06:10<7:36:43, 185.16s/it, current_epoch=3]Training:   2%|▏         | 3/150 [09:15<7:33:30, 185.11s/it, current_epoch=3]Training:   2%|▏         | 3/150 [09:15<7:33:30, 185.11s/it, current_epoch=4]Training:   3%|▎         | 4/150 [12:22<7:32:17, 185.87s/it, current_epoch=4]Training:   3%|▎         | 4/150 [12:22<7:32:17, 185.87s/it, current_epoch=5]Training:   3%|▎         | 5/150 [15:26<7:27:44, 185.27s/it, current_epoch=5]Training:   3%|▎         | 5/150 [15:26<7:27:44, 185.27s/it, current_epoch=6]Training:   4%|▍         | 6/150 [18:30<7:23:23, 184.75s/it, current_epoch=6]Training:   4%|▍         | 6/150 [18:30<7:23:23, 184.75s/it, current_epoch=7]Training:   5%|▍         | 7/150 [21:35<7:20:18, 184.74s/it, current_epoch=7]Training:   5%|▍         | 7/150 [21:35<7:20:18, 184.74s/it, current_epoch=8]Training:   5%|▌         | 8/150 [24:40<7:17:23, 184.82s/it, current_epoch=8]Training:   5%|▌         | 8/150 [24:40<7:17:23, 184.82s/it, current_epoch=9]Training:   6%|▌         | 9/150 [27:44<7:14:01, 184.69s/it, current_epoch=9]Training:   6%|▌         | 9/150 [27:44<7:14:01, 184.69s/it, current_epoch=10]Training:   7%|▋         | 10/150 [30:48<7:10:26, 184.47s/it, current_epoch=10]Training:   7%|▋         | 10/150 [30:48<7:10:26, 184.47s/it, current_epoch=11]Training:   7%|▋         | 11/150 [33:52<7:07:11, 184.40s/it, current_epoch=11]Training:   7%|▋         | 11/150 [33:52<7:07:11, 184.40s/it, current_epoch=12]Training:   8%|▊         | 12/150 [36:56<7:03:55, 184.31s/it, current_epoch=12]Training:   8%|▊         | 12/150 [36:56<7:03:55, 184.31s/it, current_epoch=13]Training:   9%|▊         | 13/150 [40:00<7:00:42, 184.25s/it, current_epoch=13]Training:   9%|▊         | 13/150 [40:00<7:00:42, 184.25s/it, current_epoch=14]Training:   9%|▉         | 14/150 [43:05<6:57:45, 184.31s/it, current_epoch=14]Training:   9%|▉         | 14/150 [43:05<6:57:45, 184.31s/it, current_epoch=15]Training:  10%|█         | 15/150 [46:09<6:54:37, 184.28s/it, current_epoch=15]Training:  10%|█         | 15/150 [46:09<6:54:37, 184.28s/it, current_epoch=16]slurmstepd: error: *** JOB 54607312 ON bg11412 CANCELLED AT 2025-03-18T06:20:49 DUE TO TIME LIMIT ***

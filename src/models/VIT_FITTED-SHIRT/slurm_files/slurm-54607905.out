@@ -1,0 +1,36 @@
+
+Inactive Modules:
+  1) hwloc/2.9.1     2) pmix/4.2.4     3) ucc/1.2.0
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) mii/1.1.2
+
+The following have been reloaded with a version change:
+  1) flexiblas/3.3.1 => flexiblas/3.0.4
+  2) gcc/12.3 => gcc/9.3.0
+  3) gcccore/.12.3 => gcccore/.9.3.0
+  4) gentoo/2023 => gentoo/2020
+  5) imkl/2023.2.0 => imkl/2020.1.217
+  6) libfabric/1.18.0 => libfabric/1.10.1
+  7) openmpi/4.1.5 => openmpi/4.0.3
+  8) ucx/1.14.1 => ucx/1.8.0
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) openmpi/4.0.3
+
+The following have been reloaded with a version change:
+  1) StdEnv/2023 => StdEnv/2020
+
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) openmpi/4.0.3
+
+/lustre03/project/6093715/yixinlok/virtualenv/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Training:   0%|          | 0/100 [00:00<?, ?it/s]Training:   0%|          | 0/100 [00:00<?, ?it/s, current_epoch=1]Training:   1%|          | 1/100 [03:05<5:05:26, 185.12s/it, current_epoch=1]Training:   1%|          | 1/100 [03:05<5:05:26, 185.12s/it, current_epoch=2]Training:   2%|▏         | 2/100 [06:11<5:03:46, 185.99s/it, current_epoch=2]Training:   2%|▏         | 2/100 [06:11<5:03:46, 185.99s/it, current_epoch=3]Training:   3%|▎         | 3/100 [09:16<4:59:59, 185.56s/it, current_epoch=3]Training:   3%|▎         | 3/100 [09:16<4:59:59, 185.56s/it, current_epoch=4]Training:   4%|▍         | 4/100 [12:23<4:57:23, 185.87s/it, current_epoch=4]Training:   4%|▍         | 4/100 [12:23<4:57:23, 185.87s/it, current_epoch=5]Training:   5%|▌         | 5/100 [15:27<4:53:24, 185.31s/it, current_epoch=5]Training:   5%|▌         | 5/100 [15:27<4:53:24, 185.31s/it, current_epoch=6]Training:   6%|▌         | 6/100 [18:33<4:50:52, 185.66s/it, current_epoch=6]Training:   6%|▌         | 6/100 [18:33<4:50:52, 185.66s/it, current_epoch=7]Training:   7%|▋         | 7/100 [21:39<4:47:36, 185.56s/it, current_epoch=7]Training:   7%|▋         | 7/100 [21:39<4:47:36, 185.56s/it, current_epoch=8]Training:   8%|▊         | 8/100 [24:45<4:44:59, 185.86s/it, current_epoch=8]Training:   8%|▊         | 8/100 [24:45<4:44:59, 185.86s/it, current_epoch=9]Training:   9%|▉         | 9/100 [27:50<4:41:22, 185.52s/it, current_epoch=9]Training:   9%|▉         | 9/100 [27:50<4:41:22, 185.52s/it, current_epoch=10]Training:  10%|█         | 10/100 [30:57<4:38:51, 185.90s/it, current_epoch=10]Training:  10%|█         | 10/100 [30:57<4:38:51, 185.90s/it, current_epoch=11]Training:  11%|█         | 11/100 [34:02<4:35:18, 185.60s/it, current_epoch=11]Training:  11%|█         | 11/100 [34:02<4:35:18, 185.60s/it, current_epoch=12]Training:  12%|█▏        | 12/100 [37:08<4:32:29, 185.79s/it, current_epoch=12]Training:  12%|█▏        | 12/100 [37:08<4:32:29, 185.79s/it, current_epoch=13]Training:  13%|█▎        | 13/100 [40:13<4:29:06, 185.59s/it, current_epoch=13]Training:  13%|█▎        | 13/100 [40:13<4:29:06, 185.59s/it, current_epoch=14]Training:  14%|█▍        | 14/100 [43:20<4:26:40, 186.06s/it, current_epoch=14]Training:  14%|█▍        | 14/100 [43:20<4:26:40, 186.06s/it, current_epoch=15]Training:  15%|█▌        | 15/100 [46:25<4:22:55, 185.60s/it, current_epoch=15]Training:  15%|█▌        | 15/100 [46:25<4:22:55, 185.60s/it, current_epoch=16]Training:  16%|█▌        | 16/100 [49:31<4:20:07, 185.80s/it, current_epoch=16]Training:  16%|█▌        | 16/100 [49:31<4:20:07, 185.80s/it, current_epoch=17]Training:  17%|█▋        | 17/100 [52:36<4:16:38, 185.52s/it, current_epoch=17]Training:  17%|█▋        | 17/100 [52:36<4:16:38, 185.52s/it, current_epoch=18]Training:  18%|█▊        | 18/100 [55:43<4:14:06, 185.93s/it, current_epoch=18]Training:  18%|█▊        | 18/100 [55:43<4:14:06, 185.93s/it, current_epoch=19]Training:  19%|█▉        | 19/100 [58:48<4:10:37, 185.65s/it, current_epoch=19]Training:  19%|█▉        | 19/100 [58:48<4:10:37, 185.65s/it, current_epoch=20]Training:  20%|██        | 20/100 [1:01:54<4:07:48, 185.86s/it, current_epoch=20]Training:  20%|██        | 20/100 [1:01:54<4:07:48, 185.86s/it, current_epoch=21]Training:  21%|██        | 21/100 [1:04:59<4:04:29, 185.70s/it, current_epoch=21]Training:  21%|██        | 21/100 [1:04:59<4:04:29, 185.70s/it, current_epoch=22]Training:  22%|██▏       | 22/100 [1:08:07<4:02:17, 186.37s/it, current_epoch=22]Training:  22%|██▏       | 22/100 [1:08:07<4:02:17, 186.37s/it, current_epoch=23]Training:  23%|██▎       | 23/100 [1:11:13<3:58:45, 186.05s/it, current_epoch=23]Training:  23%|██▎       | 23/100 [1:11:13<3:58:45, 186.05s/it, current_epoch=24]Training:  24%|██▍       | 24/100 [1:14:19<3:55:48, 186.17s/it, current_epoch=24]Training:  24%|██▍       | 24/100 [1:14:19<3:55:48, 186.17s/it, current_epoch=25]Training:  25%|██▌       | 25/100 [1:17:24<3:52:28, 185.98s/it, current_epoch=25]Training:  25%|██▌       | 25/100 [1:17:24<3:52:28, 185.98s/it, current_epoch=26]Training:  26%|██▌       | 26/100 [1:20:33<3:50:17, 186.72s/it, current_epoch=26]Training:  26%|██▌       | 26/100 [1:20:33<3:50:17, 186.72s/it, current_epoch=27]Training:  27%|██▋       | 27/100 [1:23:45<3:49:02, 188.25s/it, current_epoch=27]Training:  27%|██▋       | 27/100 [1:23:45<3:49:02, 188.25s/it, current_epoch=28]Training:  28%|██▊       | 28/100 [1:26:50<3:44:54, 187.42s/it, current_epoch=28]Training:  28%|██▊       | 28/100 [1:26:50<3:44:54, 187.42s/it, current_epoch=29]Training:  29%|██▉       | 29/100 [1:29:55<3:40:57, 186.72s/it, current_epoch=29]Training:  29%|██▉       | 29/100 [1:29:55<3:40:57, 186.72s/it, current_epoch=30]Training:  30%|███       | 30/100 [1:33:07<3:39:23, 188.05s/it, current_epoch=30]Training:  30%|███       | 30/100 [1:33:07<3:39:23, 188.05s/it, current_epoch=31]Training:  31%|███       | 31/100 [1:36:14<3:35:57, 187.79s/it, current_epoch=31]Training:  31%|███       | 31/100 [1:36:14<3:35:57, 187.79s/it, current_epoch=32]Training:  32%|███▏      | 32/100 [1:39:19<3:32:00, 187.07s/it, current_epoch=32]Training:  32%|███▏      | 32/100 [1:39:19<3:32:00, 187.07s/it, current_epoch=33]Training:  33%|███▎      | 33/100 [1:42:25<3:28:23, 186.61s/it, current_epoch=33]Training:  33%|███▎      | 33/100 [1:42:25<3:28:23, 186.61s/it, current_epoch=34]Training:  34%|███▍      | 34/100 [1:45:30<3:24:49, 186.21s/it, current_epoch=34]Training:  34%|███▍      | 34/100 [1:45:30<3:24:49, 186.21s/it, current_epoch=35]Training:  35%|███▌      | 35/100 [1:48:36<3:21:32, 186.04s/it, current_epoch=35]Training:  35%|███▌      | 35/100 [1:48:36<3:21:32, 186.04s/it, current_epoch=36]Training:  35%|███▌      | 35/100 [1:51:41<3:27:25, 191.47s/it, current_epoch=36]
+/lustre03/project/6093715/yixinlok/tailorswift/src/models/utils/norm_functions.py:21: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  x = torch.tensor(x, device=torch.device('cpu'))

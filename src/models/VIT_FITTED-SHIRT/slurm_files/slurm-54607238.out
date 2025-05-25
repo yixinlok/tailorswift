@@ -1,0 +1,36 @@
+
+Inactive Modules:
+  1) hwloc/2.9.1     2) pmix/4.2.4     3) ucc/1.2.0
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) mii/1.1.2
+
+The following have been reloaded with a version change:
+  1) flexiblas/3.3.1 => flexiblas/3.0.4
+  2) gcc/12.3 => gcc/9.3.0
+  3) gcccore/.12.3 => gcccore/.9.3.0
+  4) gentoo/2023 => gentoo/2020
+  5) imkl/2023.2.0 => imkl/2020.1.217
+  6) libfabric/1.18.0 => libfabric/1.10.1
+  7) openmpi/4.1.5 => openmpi/4.0.3
+  8) ucx/1.14.1 => ucx/1.8.0
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) openmpi/4.0.3
+
+The following have been reloaded with a version change:
+  1) StdEnv/2023 => StdEnv/2020
+
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) openmpi/4.0.3
+
+/lustre03/project/6093715/yixinlok/virtualenv/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:57: FutureWarning: 'DataFrame.swapaxes' is deprecated and will be removed in a future version. Please use 'DataFrame.transpose' instead.
+  return bound(*args, **kwds)
+Training:   0%|          | 0/150 [00:00<?, ?it/s]Training:   0%|          | 0/150 [00:00<?, ?it/s, current_epoch=1]Training:   1%|          | 1/150 [03:12<7:57:27, 192.27s/it, current_epoch=1]Training:   1%|          | 1/150 [03:12<7:57:27, 192.27s/it, current_epoch=2]Training:   1%|▏         | 2/150 [06:18<7:46:05, 188.96s/it, current_epoch=2]Training:   1%|▏         | 2/150 [06:18<7:46:05, 188.96s/it, current_epoch=3]Training:   2%|▏         | 3/150 [09:27<7:41:59, 188.57s/it, current_epoch=3]Training:   2%|▏         | 3/150 [09:27<7:41:59, 188.57s/it, current_epoch=4]Training:   3%|▎         | 4/150 [12:34<7:38:17, 188.34s/it, current_epoch=4]Training:   3%|▎         | 4/150 [12:34<7:38:17, 188.34s/it, current_epoch=5]Training:   3%|▎         | 5/150 [15:43<7:34:53, 188.23s/it, current_epoch=5]Training:   3%|▎         | 5/150 [15:43<7:34:53, 188.23s/it, current_epoch=6]Training:   4%|▍         | 6/150 [18:49<7:30:16, 187.62s/it, current_epoch=6]Training:   4%|▍         | 6/150 [18:49<7:30:16, 187.62s/it, current_epoch=7]Training:   5%|▍         | 7/150 [21:54<7:25:11, 186.80s/it, current_epoch=7]Training:   5%|▍         | 7/150 [21:54<7:25:11, 186.80s/it, current_epoch=8]Training:   5%|▌         | 8/150 [24:59<7:20:23, 186.08s/it, current_epoch=8]Training:   5%|▌         | 8/150 [24:59<7:20:23, 186.08s/it, current_epoch=9]Training:   6%|▌         | 9/150 [28:03<7:15:48, 185.45s/it, current_epoch=9]Training:   6%|▌         | 9/150 [28:03<7:15:48, 185.45s/it, current_epoch=10]Training:   7%|▋         | 10/150 [31:06<7:11:25, 184.90s/it, current_epoch=10]Training:   7%|▋         | 10/150 [31:06<7:11:25, 184.90s/it, current_epoch=11]Training:   7%|▋         | 11/150 [34:11<7:07:54, 184.71s/it, current_epoch=11]Training:   7%|▋         | 11/150 [34:11<7:07:54, 184.71s/it, current_epoch=12]Training:   8%|▊         | 12/150 [37:15<7:04:41, 184.65s/it, current_epoch=12]Training:   8%|▊         | 12/150 [37:15<7:04:41, 184.65s/it, current_epoch=13]Training:   9%|▊         | 13/150 [40:20<7:01:43, 184.70s/it, current_epoch=13]Training:   9%|▊         | 13/150 [40:20<7:01:43, 184.70s/it, current_epoch=14]Training:   9%|▉         | 14/150 [43:24<6:58:15, 184.52s/it, current_epoch=14]Training:   9%|▉         | 14/150 [43:24<6:58:15, 184.52s/it, current_epoch=15]Training:  10%|█         | 15/150 [46:28<6:55:02, 184.46s/it, current_epoch=15]Training:  10%|█         | 15/150 [46:28<6:55:02, 184.46s/it, current_epoch=16]Training:  11%|█         | 16/150 [49:33<6:51:59, 184.47s/it, current_epoch=16]Training:  11%|█         | 16/150 [49:33<6:51:59, 184.47s/it, current_epoch=17]Training:  11%|█▏        | 17/150 [52:37<6:48:41, 184.37s/it, current_epoch=17]Training:  11%|█▏        | 17/150 [52:37<6:48:41, 184.37s/it, current_epoch=18]Training:  12%|█▏        | 18/150 [55:41<6:45:30, 184.32s/it, current_epoch=18]Training:  12%|█▏        | 18/150 [55:41<6:45:30, 184.32s/it, current_epoch=19]Training:  13%|█▎        | 19/150 [58:45<6:42:15, 184.24s/it, current_epoch=19]Training:  13%|█▎        | 19/150 [58:45<6:42:15, 184.24s/it, current_epoch=20]Training:  13%|█▎        | 20/150 [1:01:50<6:39:29, 184.38s/it, current_epoch=20]Training:  13%|█▎        | 20/150 [1:01:50<6:39:29, 184.38s/it, current_epoch=21]Training:  14%|█▍        | 21/150 [1:04:54<6:36:26, 184.39s/it, current_epoch=21]Training:  14%|█▍        | 21/150 [1:04:54<6:36:26, 184.39s/it, current_epoch=22]Training:  15%|█▍        | 22/150 [1:07:59<6:33:44, 184.57s/it, current_epoch=22]Training:  15%|█▍        | 22/150 [1:07:59<6:33:44, 184.57s/it, current_epoch=23]Training:  15%|█▌        | 23/150 [1:11:04<6:30:51, 184.66s/it, current_epoch=23]Training:  15%|█▌        | 23/150 [1:11:04<6:30:51, 184.66s/it, current_epoch=24]Training:  16%|█▌        | 24/150 [1:14:09<6:27:39, 184.60s/it, current_epoch=24]Training:  16%|█▌        | 24/150 [1:14:09<6:27:39, 184.60s/it, current_epoch=25]Training:  17%|█▋        | 25/150 [1:17:13<6:24:38, 184.63s/it, current_epoch=25]Training:  17%|█▋        | 25/150 [1:17:13<6:24:38, 184.63s/it, current_epoch=26]Training:  17%|█▋        | 26/150 [1:20:18<6:21:15, 184.48s/it, current_epoch=26]Training:  17%|█▋        | 26/150 [1:20:18<6:21:15, 184.48s/it, current_epoch=27]Training:  18%|█▊        | 27/150 [1:23:22<6:18:09, 184.46s/it, current_epoch=27]Training:  18%|█▊        | 27/150 [1:23:22<6:18:09, 184.46s/it, current_epoch=28]Training:  19%|█▊        | 28/150 [1:26:26<6:14:51, 184.36s/it, current_epoch=28]Training:  19%|█▊        | 28/150 [1:26:26<6:14:51, 184.36s/it, current_epoch=29]Training:  19%|█▉        | 29/150 [1:29:30<6:11:43, 184.32s/it, current_epoch=29]Training:  19%|█▉        | 29/150 [1:29:30<6:11:43, 184.32s/it, current_epoch=30]Training:  20%|██        | 30/150 [1:32:34<6:08:31, 184.26s/it, current_epoch=30]Training:  20%|██        | 30/150 [1:32:34<6:08:31, 184.26s/it, current_epoch=31]Training:  21%|██        | 31/150 [1:35:39<6:05:40, 184.37s/it, current_epoch=31]Training:  21%|██        | 31/150 [1:35:39<6:05:40, 184.37s/it, current_epoch=32]Training:  21%|██▏       | 32/150 [1:38:44<6:02:43, 184.43s/it, current_epoch=32]Training:  21%|██▏       | 32/150 [1:38:44<6:02:43, 184.43s/it, current_epoch=33]Training:  22%|██▏       | 33/150 [1:41:50<6:00:33, 184.90s/it, current_epoch=33]Training:  22%|██▏       | 33/150 [1:41:50<6:00:33, 184.90s/it, current_epoch=34]slurmstepd: error: *** JOB 54607238 ON bg12402 CANCELLED AT 2025-03-18T04:45:40 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 54607238 STEPD TERMINATED ON bg12402 AT 2025-03-18T04:55:40 DUE TO JOB NOT ENDING WITH SIGNALS ***
+slurmstepd: error: Container 147090 in cgroup plugin has 1 processes, giving up after 607 sec
