@@ -1,4 +1,4 @@
-# TailorSwift
+# TailorSwift [Poster](https://github.com/yixinlok/tailorswift/blob/main/poster/poster.jpg) 
 Yixin Lok, Lavanya Mehndiratta, Brian Chu, Tamim Hasan
 ![Figure](./figs/teaser.png)
 ## Introduction
