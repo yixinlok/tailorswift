@@ -14,3 +14,4 @@ Yixin Lok, Lavanya Mehndiratta, Brian Chu, Tamim Hasan
 1. Clean up/ refactor files
 2. Download remaining pth files from compute canada
 3. Add documentation
+4. Migrate to AWS
