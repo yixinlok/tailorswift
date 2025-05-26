@@ -5,32 +5,12 @@ Yixin Lok, Lavanya Mehndiratta, Brian Chu, Tamim Hasan
 ![Figure](./figs/teaser.png)
 ## Introduction
 
-@article{xu2022fashionformer,
-  title={Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition},
-  author={Xu, Shilin and Li, Xiangtai and Wang, Jingbo and Cheng, Guangliang and Tong, Yunhai and Tao, Dacheng},
-  journal={ECCV},
-  year={2022}
-}
+## References
+1. Xu, S., Li, X., Wang, J., Cheng, G., Tong, Y., & Tao, D. (2022). Fashionformer: A simple, effective and unified baseline for human fashion segmentation and recognition. In European Conference on Computer Vision (ECCV).
+2. Korosteleva, M., Kesdogan, T. L., Kemper, F., Wenninger, S., Koller, J., Zhang, Y., Botsch, M., & Sorkine-Hornung, O. (2024). GarmentCodeData: A dataset of 3D made-to-measure garments with sewing patterns. In Computer Vision – ECCV 2024.
+3. Korosteleva, M., & Sorkine-Hornung, O. (2023). GarmentCode: Programming parametric sewing patterns. ACM Transactions on Graphics, 42(6), 1–16. https://doi.org/10.1145/3618351
 
-@inproceedings{GarmentCodeData:2024,
-  author = {Korosteleva, Maria and Kesdogan, Timur Levent and Kemper, Fabian and Wenninger, Stephan and Koller, Jasmin and Zhang, Yuhan and Botsch, Mario and Sorkine-Hornung, Olga},
-  title = {{GarmentCodeData}: A Dataset of 3{D} Made-to-Measure Garments With Sewing Patterns},
-  booktitle={Computer Vision -- ECCV 2024},
-  year = {2024},
-  keywords = {sewing patterns, garment reconstruction, dataset},
-}
-@article{GarmentCode2023,
-  author = {Korosteleva, Maria and Sorkine-Hornung, Olga},
-  title = {{GarmentCode}: Programming Parametric Sewing Patterns},
-  year = {2023},
-  issue_date = {December 2023},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  volume = {42},
-  number = {6},
-  doi = {10.1145/3618351},
-  journal = {ACM Transaction on Graphics},
-  note = {SIGGRAPH ASIA 2023 issue},
-  numpages = {16},
-  keywords = {sewing patterns, garment modeling}
-}
+## TODO:
+1. Clean up/ refactor files
+2. Download remaining pth files from compute canada
+3. Add documentation
