@@ -1,4 +1,5 @@
-# TailorSwift [Poster](https://github.com/yixinlok/tailorswift/blob/main/poster/poster.jpg) 
+# TailorSwift 
+[Poster](https://github.com/yixinlok/tailorswift/blob/main/poster/poster.jpg) 
 Generating sewing patterns from images and body measurements 
 
 Yixin Lok, Lavanya Mehndiratta, Brian Chu, Tamim Hasan
